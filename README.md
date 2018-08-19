@@ -36,7 +36,6 @@ vim src/views/nav1/Form.vue
 npm run v2
 ```
 
-
 ### build for production with minification
 ```shell
 npm run build
