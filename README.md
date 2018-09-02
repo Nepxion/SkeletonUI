@@ -1,6 +1,6 @@
 # Nepxion Skeleton UI
 
-> ui source for codegen
+> UI for Skeleton
 
 **demo**: [http://start.springcloud.cn](http://start.springcloud.cn)
 
