@@ -1,4 +1,4 @@
-# spring-cloud-codegen-ui
+# Nepxion Skeleton UI
 
 > ui source for codegen
 
