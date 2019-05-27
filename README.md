@@ -44,3 +44,6 @@ npm run build
 
 ```
 
+## Star走势图
+
+[![Stargazers over time](https://starchart.cc/Nepxion/SkeletonUI.svg)](https://starchart.cc/Nepxion/SkeletonUI)
