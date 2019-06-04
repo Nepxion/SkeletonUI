@@ -15,7 +15,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
 npm install
 ```
 
-### serve with hot reload at localhost:7777 
+### serve with hot reload at localhost:7777
 ```shell
 # by api: http://127.0.0.1:3333
 npm run dev
