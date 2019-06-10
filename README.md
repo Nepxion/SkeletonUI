@@ -23,13 +23,13 @@ npm run dev
 ### Hosts:
 127.0.0.1 localhost
 
-### serve with hot reload at localhost:8888   
+### serve with hot reload at localhost:8888
 ```shell
 # by api: http://codegen.smartscity.com/api/v1/swagger-ui.html
 npm run remote
 ```
 
-### serve with hot reload at localhost:9999   
+### serve with hot reload at localhost:9999
 ```shell 
 # by api: http://codegen.smartscity.com/api/v2/swagger-ui.html
 #edit v1 to v2
@@ -41,7 +41,6 @@ npm run v2
 ### build for production with minification
 ```shell
 npm run build
-
 ```
 
 ## Star走势图
