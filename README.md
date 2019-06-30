@@ -1,5 +1,5 @@
 # Nepxion Skeleton UI
-[![Total lines](https://tokei.rs/b1/github/Nepxion/SkeletonUI?category=lines)](https://github.com/Nepxion/SkeletonUI)
+[![Total lines](https://tokei.rs/b1/github/Nepxion/SkeletonUI?category=lines)](https://tokei.rs/b1/github/Nepxion/SkeletonUI?category=lines)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?label=license)](https://github.com/Nepxion/SkeletonUI/blob/master/LICENSE)
 
 > UI for Skeleton
