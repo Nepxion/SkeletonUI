@@ -14,7 +14,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli)
 npm install
 ```
 
-### serve with hot reload at localhost:7777
+### Serve with hot reload at localhost:7777
 ```shell
 # by api: http://127.0.0.1:3333
 npm run dev
@@ -22,13 +22,13 @@ npm run dev
 ### Hosts:
 127.0.0.1 localhost
 
-### serve with hot reload at localhost:8888
+### Serve with hot reload at localhost:8888
 ```shell
 # by api: http://codegen.smartscity.com/api/v1/swagger-ui.html
 npm run remote
 ```
 
-### serve with hot reload at localhost:9999
+### Serve with hot reload at localhost:9999
 ```shell 
 # by api: http://codegen.smartscity.com/api/v2/swagger-ui.html
 #edit v1 to v2
@@ -37,7 +37,7 @@ vim src/views/nav1/Form.vue
 npm run v2
 ```
 
-### build for production with minification
+### Build for production with minification
 ```shell
 npm run build
 ```
